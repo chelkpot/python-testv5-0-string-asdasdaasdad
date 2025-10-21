@@ -5,7 +5,6 @@ def solve():
     word=input()
     print(word*3)
     
-
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":
     solve()
